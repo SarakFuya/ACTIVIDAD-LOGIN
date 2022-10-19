@@ -17,7 +17,7 @@ En esta pestaña se adiciona el texto “Olvide la contraseña” y agrega la fu
 restablecerla a través de un email. Modificamos la UI del App para que incluya el texto “Olvide la contraseña”; colocamos un detector de gestos (GestureDetector) y al dar clic en el texto, cargamos la página ForgotPawwordPage().
 ![image](https://user-images.githubusercontent.com/101723518/196695917-fc270474-4531-451b-8bb8-cedd29f1aa0b.png)
 #4.1.
-Ingesa un mensaje a nuestro correo en Spam con el cual podemos cambiar nuestro respectivo cambio de contraseña
+Ingresa un mensaje a nuestro correo en Spam con el cual podemos cambiar nuestro respectivo cambio de contraseña
 ![image](https://user-images.githubusercontent.com/101723518/196696659-37ff3170-ca70-4347-98cf-773097035f21.png)
 #5.
 Vamos a mejorar nuestra aplicación de inicio de sesión, permitiendo almacenar datos de los usuarios; para ello hemos creado una colección llamada ‘cuentas’ en FireStore.
